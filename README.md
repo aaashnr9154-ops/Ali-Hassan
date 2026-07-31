@@ -9,7 +9,7 @@
 - 🔭 Working on full-stack web applications and software engineering projects.
 - 🌱 Currently expanding my expertise in **Node.js, Express, C#, and Relational Databases**.
 - 🛠️ Skilled in building modular backend services, database connections, and desktop solutions.
-- 📫 How to reach me: **aaashnr9154@gmail**
+- 📫 How to reach me: **aaashnr9154@gmail.com**
 
 ---
 
